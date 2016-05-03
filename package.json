@@ -1,0 +1,26 @@
+{
+  "name": "expressionsimplfier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mjkaufer/ExpressionSimplifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjkaufer/ExpressionSimplifier/issues"
+  },
+  "homepage": "https://github.com/mjkaufer/ExpressionSimplifier#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "request": "^2.72.0",
+    "rref": "0.0.1",
+    "nerdamer": "jiggzson/nerdamer"
+  }
+}
